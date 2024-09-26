@@ -1,0 +1,42 @@
+/* First to load */
+@import url("./global/global.css");
+@import url("./utilities/typography.css");
+@import url("./utilities/colors.css");
+@import url("./utilities/animation.css");
+
+/* Global */
+@import url("./global/header.css");
+@import url("./global/footer.css");
+
+/* Utilities */
+@import url("./utilities/components.css");
+@import url("./utilities/form.css");
+
+/* Home */
+@import url("./home/introduction.css");
+@import url("./home/technology.css");
+@import url("./home/partners.css");
+@import url("./home/testimonial.css");
+
+/* Bikes */
+@import url("./bikes/bikes-list.css");
+@import url("./bikes/bikes.css");
+
+/* Bike */
+@import url("./bike/bike.css");
+@import url("./bike/bike-insurance.css");
+
+/* Insurance */
+@import url("./insurance/insurance.css");
+@import url("./insurance/advantages.css");
+@import url("./insurance/faq.css");
+
+/* Contact */
+@import url("./contact/contact.css");
+@import url("./contact/stores.css");
+
+/* Budget */
+@import url("./budget/budget.css");
+
+/* Terms & Conditions */
+@import url("./terms/terms.css");
