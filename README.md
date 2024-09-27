@@ -11,9 +11,9 @@ O projeto consiste em um site de comércio de bicicletas.
 Você pode ver o projeto [CLICANDO AQUI!](https://origamid-site-bikecraft.vercel.app).
 
 ## IMAGENS DO PROJETO
-![HOME PAGE - PART 1](https://drive.google.com/file/d/1BgA7GdUXTEbo02HA33XXgXKYDeWylGCJ/view?usp=sharing)
-![HOME PAGE - PART 2](https://drive.google.com/file/d/1NkhA-FgIGpu8Q88WcVBBSBgx1AaYnSy9/view?usp=sharing)
-![BIKES](https://drive.google.com/file/d/1PaVSqsqRbBn9P0UBRuGbogfJPQpqyZT1/view?usp=sharing)
-![INSURANCE](https://drive.google.com/file/d/1cfJBlYr2bXVu5EKXr8YFFud9ysIXlZZe/view?usp=sharing)
-![CONTACT](https://drive.google.com/file/d/1ClxPdAqwKWEhTkBua1x-z1XeXcHYKW1p/view?usp=sharing)
+![HOME PAGE - PART 1]([img]https://i.imgur.com/gcouHHX.png[/img])
+![HOME PAGE - PART 2]([img]https://i.imgur.com/ftNU9lY.png[/img])
+![BIKES]([img]https://i.imgur.com/XAtVHLd.png[/img])
+![INSURANCE]([img]https://i.imgur.com/EEwROes.png[/img])
+![CONTACT]([img]https://i.imgur.com/PvZNqoA.png[/img])
 
