@@ -14,14 +14,14 @@ Você pode ver o projeto [CLICANDO AQUI!](https://origamid-site-bikecraft.vercel
 # Página Inicial - Parte 1
 ![HOME PAGE - PART 1](https://i.imgur.com/gcouHHX.png)
 
-# Página Inicial - Parte 2
+### Página Inicial - Parte 2
 ![HOME PAGE - PART 2](https://i.imgur.com/ftNU9lY.png)
 
-# Bicicletas
+### Bicicletas
 ![BIKES](https://i.imgur.com/XAtVHLd.png)
 
-# Seguros
+### Seguros
 ![INSURANCE](https://i.imgur.com/EEwROes.png)
 
-# Contato
+### Contato
 ![CONTACT](https://i.imgur.com/PvZNqoA.png)
